@@ -1,0 +1,13 @@
+python word_sim.py -s ./data/trd-wordsim-240.txt -e word_vec
+python word_sim.py -s ./data/trd-wordsim-297.txt -e word_vec
+python word_sim.py -s ./data/zh_tw_ws353.txt -e word_vec
+python word_sim.py -s ./data/zh_tw_ws353_relatedness.txt -e word_vec
+python word_sim.py -s ./data/zh_tw_ws353_similarity.txt -e word_vec
+python word_sim.py -s ./data/zh_tw_SimLex-999.txt -e word_vec
+python word_sim.py -s ./data/zh_tw_bruni_men.txt -e word_vec
+python word_sim.py -s ./data/zh_tw_radinsky_mturk.txt -e word_vec
+
+
+
+python word_analogy.py -a ./data/zh_tw_google.txt -e word_vec
+python word_analogy.py -a ./data/analog.txt -e word_vec
