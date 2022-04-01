@@ -1,2 +1,0 @@
-執行指令:python savemodel.py
-訓練模型並儲存
