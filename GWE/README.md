@@ -1,3 +1,5 @@
+Source:https://github.com/ray1007/GWE
+
 # Glyph-enhanced Word Embedding (GWE)
 
 This is the code of the following [paper](https://arxiv.org/abs/1708.04755)
