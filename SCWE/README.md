@@ -1,3 +1,5 @@
+Source:https://github.com/JianXu123/SCWE
+
 # Train Model
 
  This code is developed based on CWE, it is avaiable at [CWE](https://github.com/Leonard-Xu/CWE)
