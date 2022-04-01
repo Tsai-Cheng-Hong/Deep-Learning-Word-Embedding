@@ -16,3 +16,11 @@ Gensim-FastText:https://drive.google.com/drive/folders/150Jw_voKXT-l048Qjpl8y0_b
 CWE:https://drive.google.com/drive/folders/150Jw_voKXT-l048Qjpl8y0_bp7GO2C8n?usp=sharing
 
 JWE:https://drive.google.com/file/d/1F9hvpjrb3AhLdfnfNzBM9lFlwlTXNDf9/view?usp=sharing
+
+GWE:https://drive.google.com/file/d/1cu4Y2JfAc7JyBvj_W6rjD8GnaiGrBR2c/view?usp=sharing
+
+AWE-self:https://drive.google.com/file/d/1CvEo6gHruynUXk46IFjMnGCQsaqTzTQ0/view?usp=sharing
+
+AWE-global:https://drive.google.com/file/d/1ZLl79Bs2sXehZJskEH5CPO8jLA_BdLxq/view?usp=sharing
+
+P&AWE-global:https://drive.google.com/file/d/1gq9sg9-41pnoyPdcU5LdIVPdzs87M3os/view?usp=sharing
