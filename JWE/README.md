@@ -1,5 +1,6 @@
 # JWE
 Source codes of our EMNLP2017 paper [Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components](http://www.cse.ust.hk/~yqsong/papers/2017-EMNLP-ChineseEmbedding.pdf)
+https://github.com/HKUST-KnowComp/JWE
 
 ## Preparation
 You need to prepare a training corpus and the Chinese subcharacter radicals or components. 
