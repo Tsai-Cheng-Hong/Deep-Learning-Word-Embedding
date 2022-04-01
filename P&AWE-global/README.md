@@ -1,19 +1,11 @@
+Source:https://github.com/xzhren/chineseword2vec
+
 # chineseword2vec
 
-## Code for 《Attention Enhanced Chinese Word Embeddings》
 
 ```
 Attention Enhanced Chinese Word Embeddings: 27th International Conference on Artificial Neural Networks, Rhodes, Greece, October 4-7, 2018, Proceedings, Part I
 ```
-
-## Primary models
- -  **CBOW** : 002#BaseLine-CBOW.ipynb ; 008#Simple-CBOW.ipynb
- -  **CWE** : 005#CWE-Basic.ipynb
- -  **AWE-self** : 004#CBOW_Self-Attention.ipynb
- -  **AWE-global** : 006#CBOW_Global-Attention.ipynb
- -  **P&AWE-self** : 009#CBOW_Self-Attention-Position.ipynb
- -  **P&AWE-global** : 010#CBOW_Global-Attention-Position.ipynb
- -  **AWE-CNN** : 007#CBOW_CNN.ipynb
 
 --------------------
 ## Paper download
