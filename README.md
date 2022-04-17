@@ -41,3 +41,11 @@ P&AWE-global:https://drive.google.com/file/d/1gq9sg9-41pnoyPdcU5LdIVPdzs87M3os/v
 文件分類任務:https://github.com/Tsai-Cheng-Hong/Deep-Learning-Document-Classification
 
 語意分析任務:https://github.com/Tsai-Cheng-Hong/Deep-Learning-Semantic-Analysis
+
+------------------------------------------------------------------------
+
+訓練中文的語言模型前，需要先對Dataset進行前處理
+
+所需要進行的前處理有:1.簡體字翻譯中文字 2.斷詞(Word Segmentation)
+
+1.繁體字翻譯中文字:https://github.com/Tsai-Cheng-Hong/Python-OpenCC-zh-cn_translate_to_zh-tw
