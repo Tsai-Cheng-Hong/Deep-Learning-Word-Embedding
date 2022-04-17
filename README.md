@@ -26,3 +26,18 @@ AWE-self:https://drive.google.com/file/d/1CvEo6gHruynUXk46IFjMnGCQsaqTzTQ0/view?
 AWE-global:https://drive.google.com/file/d/1ZLl79Bs2sXehZJskEH5CPO8jLA_BdLxq/view?usp=sharing
 
 P&AWE-global:https://drive.google.com/file/d/1gq9sg9-41pnoyPdcU5LdIVPdzs87M3os/view?usp=sharing
+
+
+------------------------------------------------------------------------
+
+語言模型訓練出來的詞向量可以做許多不同的後續任務
+
+可以拿來應用在文件分類、語意分析...等任務上
+
+為了讓這些下游任務有良好的成效，因此好的語言模型十分重要
+
+有好的語言模型，相當於人類擁有好的字典
+
+文件分類任務:https://github.com/Tsai-Cheng-Hong/Deep-Learning-Document-Classification
+
+語意分析任務:https://github.com/Tsai-Cheng-Hong/Deep-Learning-Semantic-Analysis
