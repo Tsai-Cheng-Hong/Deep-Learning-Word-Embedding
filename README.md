@@ -27,9 +27,16 @@ AWE-global:https://drive.google.com/file/d/1ZLl79Bs2sXehZJskEH5CPO8jLA_BdLxq/vie
 
 P&AWE-global:https://drive.google.com/file/d/1gq9sg9-41pnoyPdcU5LdIVPdzs87M3os/view?usp=sharing
 
+------------------------------------------------------------------------
+# 語言模型的訓練前處理
+訓練中文的語言模型前，需要先對Dataset進行前處理
+
+所需要進行的前處理有:1.簡體字翻譯中文字 2.斷詞(Word Segmentation)
+
+1.繁體字翻譯中文字:https://github.com/Tsai-Cheng-Hong/Python-OpenCC-zh-cn_translate_to_zh-tw
 
 ------------------------------------------------------------------------
-
+# 詞向量的應用
 語言模型訓練出來的詞向量可以做許多不同的後續任務
 
 可以拿來應用在文件分類、語意分析...等任務上
@@ -42,10 +49,4 @@ P&AWE-global:https://drive.google.com/file/d/1gq9sg9-41pnoyPdcU5LdIVPdzs87M3os/v
 
 語意分析任務:https://github.com/Tsai-Cheng-Hong/Deep-Learning-Semantic-Analysis
 
-------------------------------------------------------------------------
 
-訓練中文的語言模型前，需要先對Dataset進行前處理
-
-所需要進行的前處理有:1.簡體字翻譯中文字 2.斷詞(Word Segmentation)
-
-1.繁體字翻譯中文字:https://github.com/Tsai-Cheng-Hong/Python-OpenCC-zh-cn_translate_to_zh-tw
