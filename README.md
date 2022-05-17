@@ -41,7 +41,7 @@ Gensim-SkipGram:https://drive.google.com/drive/folders/1C8zw1my3ZQG6LiPprvKroTPs
 
 Gensim-FastText:https://drive.google.com/drive/folders/150Jw_voKXT-l048Qjpl8y0_bp7GO2C8n?usp=sharing
 
-CWE:https://drive.google.com/drive/folders/150Jw_voKXT-l048Qjpl8y0_bp7GO2C8n?usp=sharing
+CWE:https://drive.google.com/file/d/16-8GsaHZvOG3RAXOhYDGzMlboWqxHrO2/view?usp=sharing
 
 JWE:https://drive.google.com/file/d/1F9hvpjrb3AhLdfnfNzBM9lFlwlTXNDf9/view?usp=sharing
 
