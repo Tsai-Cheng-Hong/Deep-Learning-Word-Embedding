@@ -15,6 +15,8 @@ pip install gensim==3.8.3
 
 1.繁體字翻譯中文字:https://github.com/Tsai-Cheng-Hong/Python-OpenCC-zh-cn_translate_to_zh-tw
 
+2.斷詞(Word Segmentation):https://github.com/Tsai-Cheng-Hong/CKIP-Transformers-Word-Segmentation
+
 ------------------------------------------------------------------------
 # 詞向量的應用
 語言模型訓練出來的詞向量可以做許多不同的後續任務
