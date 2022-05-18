@@ -18,7 +18,7 @@ pip install gensim==3.8.3
 2.斷詞(Word Segmentation):https://github.com/Tsai-Cheng-Hong/CKIP-Transformers-Word-Segmentation
 
 ------------------------------------------------------------------------
-# 詞向量的應用
+# 詞向量的評估
 語言模型的評估方式可以使用詞相似度(Word Similarity)與詞類比(Word Analogy)
 
 通過計算關聯性的分數，來了解模型訓練的好壞
