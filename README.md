@@ -69,12 +69,12 @@ P&AWE-global[7]:https://drive.google.com/file/d/1gq9sg9-41pnoyPdcU5LdIVPdzs87M3o
 
 [2] Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). Enriching word vectors with subword information. Transactions of the association for computational linguistics, 5, 135-146.
 
-[3]Chen, X., Xu, L., Liu, Z., Sun, M., & Luan, H. (2015, June). Joint learning of character and word embeddings. In Twenty-fourth international joint conference on artificial intelligence.
+[3] Chen, X., Xu, L., Liu, Z., Sun, M., & Luan, H. (2015, June). Joint learning of character and word embeddings. In Twenty-fourth international joint conference on artificial intelligence.
 
-[4]Yu, J., Jian, X., Xin, H., & Song, Y. (2017, September). Joint embeddings of chinese words, characters, and fine-grained subcharacter components. In Proceedings of the 2017 conference on empirical methods in natural language processing (pp. 286-291).
+[4] Yu, J., Jian, X., Xin, H., & Song, Y. (2017, September). Joint embeddings of chinese words, characters, and fine-grained subcharacter components. In Proceedings of the 2017 conference on empirical methods in natural language processing (pp. 286-291).
 
-[5]Su, T. R., & Lee, H. Y. (2017). Learning chinese word representations from glyphs of characters. arXiv preprint arXiv:1708.04755.
+[5] Su, T. R., & Lee, H. Y. (2017). Learning chinese word representations from glyphs of characters. arXiv preprint arXiv:1708.04755.
 
-[6]Xu, J., Liu, J., Zhang, L., Li, Z., & Chen, H. (2016, June). Improve chinese word embeddings by exploiting internal structure. In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: human language technologies (pp. 1041-1050).
+[6] Xu, J., Liu, J., Zhang, L., Li, Z., & Chen, H. (2016, June). Improve chinese word embeddings by exploiting internal structure. In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: human language technologies (pp. 1041-1050).
 
-[7]Ren, X., Zhang, L., Ye, W., Hua, H., & Zhang, S. (2018, October). Attention Enhanced Chinese Word Embeddings. In International Conference on Artificial Neural Networks (pp. 154-165). Springer, Cham.
+[7] Ren, X., Zhang, L., Ye, W., Hua, H., & Zhang, S. (2018, October). Attention Enhanced Chinese Word Embeddings. In International Conference on Artificial Neural Networks (pp. 154-165). Springer, Cham.
